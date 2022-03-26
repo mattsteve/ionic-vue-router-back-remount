@@ -29,7 +29,7 @@
         "@vue/cli-plugin-unit-jest": "4.5.0",
         "@vue/cli-plugin-vuex": "4.5.0",
         "@vue/cli-service": "4.5.0",
-        "@vue/compiler-sfc": "3.2.22",
+        "@vue/compiler-sfc": "3.2.31",
         "acorn": "6.0.0",
         "babel-jest": "25.1.0",
         "bindings": "^1.5.0",
